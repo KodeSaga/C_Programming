@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 int main(){
-        int n, count = 0;
-        scanf("%d",&n);
+        int count = 0;
+        long long n;
+        scanf("%lld",&n);
         while(n > 0){
                 count++;
                 n /= 10;
