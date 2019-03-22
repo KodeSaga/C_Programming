@@ -7,7 +7,7 @@
             "label": "echo",
             "type": "shell",
             "command": "gcc",
-            "args": ["-g","NPTEL/p0006.c"],
+            "args": ["-g","NPTEL/p0007.c"],
         //  "args": ["-g","Codeforces/p0005.cpp"]
         //  "args": ["-g","DCC/p0005.cpp"]
         //  "args": ["-g","Hackerank/p0005.cpp"],
