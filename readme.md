@@ -8,3 +8,4 @@
 | p0006 | Complete | NPTEL | Digit Count |
 | p0007 | Complete | NPTEL | Standard deviation |
 | p0008 | Complete | NPTEL | Count upper and lower case letters in a string |
+| p0009 | Complete | NPTEL | Find largest and smallest word in a string |
