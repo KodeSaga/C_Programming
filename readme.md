@@ -10,3 +10,4 @@
 | p0008 | Complete | NPTEL | Count upper and lower case letters in a string |
 | p0009 | Complete | NPTEL | Find largest and smallest word in a string |
 | p0010 | Complete | NPTEL | Write a C Program to find HCF of 4 given numbers using recursive function. |
+| p0011 | Complete | NPTEL | Find power of a given number using recursion |
