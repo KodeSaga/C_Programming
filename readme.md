@@ -7,3 +7,4 @@
 | p0005 | Complete | NPTEL | Check if a number is a Perfect number or not |
 | p0006 | Complete | NPTEL | Digit Count |
 | p0007 | Complete | NPTEL | Standard deviation |
+| p0008 | Complete | NPTEL | Count upper and lower case letters in a string |
