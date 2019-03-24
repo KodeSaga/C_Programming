@@ -15,3 +15,4 @@
 | p0013 | Complete | NPTEL | Print a triangle of prime numbers upto given number of lines of the triangle. |
 | p0014 | Complete | NPTEL | Binary Search. (Iterative) |
 | p0015 | Complete | NPTEL | Selection Sort. (Iterative) |
+| p0016 | Complete | NPTEL | Insertion Sort. (Iterative) |
