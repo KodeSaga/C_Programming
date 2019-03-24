@@ -17,3 +17,5 @@
 | [p0015](/NPTEL/p0015.c) | Complete | NPTEL | Selection Sort. (Iterative) |
 | [p0016](/NPTEL/p0016.c) | Complete | NPTEL | Insertion Sort. (Iterative) |
 | [p0017](/NPTEL/p0017.c) | Complete | NPTEL | Bubble Sort. (Iterative) |
+| [p0018](/NPTEL/p0018.c) | Complete | NPTEL | Merge Sort. (Iterative) |
+| [p0019](/NPTEL/p0019.c) | Complete | NPTEL | Quick Sort. (Iterative) |
