@@ -13,4 +13,5 @@
 | p0011 | Complete | NPTEL | Find power of a given number using recursion |
 | p0012 | Complete | NPTEL | Program to print Binary Equivalent of an Integer using Recursion. |
 | p0013 | Complete | NPTEL | Print a triangle of prime numbers upto given number of lines of the triangle. |
-| p0014 | Complete | NPTEL | Binary Search. |
+| p0014 | Complete | NPTEL | Binary Search. (Iterative) |
+| p0015 | Complete | NPTEL | Selection Sort. (Iterative) |
